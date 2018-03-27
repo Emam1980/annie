@@ -16,7 +16,7 @@ func TestYouku(t *testing.T) {
 		{
 			name: "normal test",
 			args: test.Args{
-				URL:     "http://v.youku.com/v_show/id_XMzMzMDk5MzcyNA==.html",
+				URL:     "https://www.youtube.com/watch?v=znZHTZafw2E",
 				Title:   "鲜榨时尚：开口跪Jessie J歌声和造型双在线",
 				Size:    12568063,
 				Quality: "mp4hd2v2 720x1280",
